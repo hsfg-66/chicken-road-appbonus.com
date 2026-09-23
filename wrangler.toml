@@ -1,0 +1,11 @@
+name = "chicken-road-appbonus-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chicken-road-appbonus.com"
+HMAC_KEY = "1996f4a389c57e3ed3b8aa6e60b12b5485798a2707475b8690e5843359740362"
+COOKIE_NAME = "8op"
+PLAY_PATH = "start"
+BUTTON_ID = "pbec2ef0b69a866705c2693e0461c59e5"
+GATE_SALT = "8e8f8d30caea0f01"
